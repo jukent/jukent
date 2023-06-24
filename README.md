@@ -27,7 +27,7 @@ I am a software engineer and atmospheric scientist at the National Center for At
 Package manager for [GeoCat-viz](https://github.com/NCAR/geocat-viz) and [GeoCAT-examples](https://github.com/NCAR/geocat-examples).
 
 <a href="https://github.com/jukent/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukent&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukent&theme=dark&rank_icon=github" />
 </a>
 <a href="https://github.com/jukent/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukent&layout=compact&langs_count=8&card_width=320&theme=dark" />
