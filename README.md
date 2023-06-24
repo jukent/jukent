@@ -23,5 +23,9 @@ Here are some ideas to get you started:
 
 I am a software engineer and atmospheric scientist at the National Center for Atmospheric Research (NCAR) passionate about improving reproducible and open science by improving Python learning resources via [Project Pythia](https://projectpythia.org/), developing workflow applications through upstream contributions to “Pangeo stack” Python packages and [GeoCAT](https://geocat.ucar.edu/), and by strengthening communication between scientists and software developers through community management of [Earth System Data Science (ESDS)](https://ncar.github.io/esds/).
 
-![Julias's GitHub stats](https://github-readme-stats.vercel.app/api?username=jukent&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukent&langs_count=8&theme=dark&layout=compact)
+<a href="https://github.com/jukent/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukent&theme=dark" />
+</a>
+<a href="https://github.com/jukent/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukent&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
