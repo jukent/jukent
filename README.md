@@ -32,3 +32,5 @@ Package manager for [GeoCat-viz](https://github.com/NCAR/geocat-viz) and [GeoCAT
 <a href="https://github.com/jukent/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukent&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+<sub>Profile picture from Fotor AI image generator. Prompt: "A python dreaming about data visualization."</sub>
