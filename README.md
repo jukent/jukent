@@ -29,10 +29,3 @@ Learn more at [jnkent.com](https://jnkent.com).
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/python-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" align=left width=24 height=24></picture>
 Package manager for [GeoCat-viz](https://github.com/NCAR/geocat-viz) and [GeoCAT-examples](https://github.com/NCAR/geocat-examples).
-
-<a href="https://github.com/jukent/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jukent&theme=dark&rank_icon=github" />
-</a>
-<a href="https://github.com/jukent/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jukent&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
