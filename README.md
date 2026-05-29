@@ -29,5 +29,4 @@ Formerly a software engineer and atmospheric scientist at the National Center fo
 
 Learn more at [jnkent.com](https://jnkent.com).
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/python-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" align=left width=24 height=24></picture>
 Package manager for [GeoCat-viz](https://github.com/NCAR/geocat-viz) and [GeoCAT-examples](https://github.com/NCAR/geocat-examples).
