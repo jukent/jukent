@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 Newest USGS Contractor working on the earthquake hazards loss and risk analysis product [PAGER](https://earthquake.usgs.gov/data/pager/).
 
-Formerly a software engineer and atmospheric scientist at the National Center for Atmospheric Research (NCAR) improving reproducible and open science by improving Python learning resources via [Project Pythia](https://projectpythia.org/), developing workflow applications through upstream contributions to “Pangeo stack” Python packages and [GeoCAT](https://geocat.ucar.edu/), and by strengthening communication between scientists and software developers through community management of [Earth System Data Science (ESDS)](https://ncar.github.io/esds/).
+Formerly a software engineer and atmospheric scientist at NSF National Center for Atmospheric Research (NCAR) improving reproducible and open science by improving Python learning resources via [Project Pythia](https://projectpythia.org/), developing workflow applications through upstream contributions to “Pangeo stack” Python packages and [GeoCAT](https://geocat.ucar.edu/), and by strengthening communication between scientists and software developers through community management of [Earth System Data Science (ESDS)](https://ncar.github.io/esds/).
 
 Learn more at [jnkent.com](https://jnkent.com).
