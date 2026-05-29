@@ -1,7 +1,7 @@
 # Julia Kent
 
 
-### Software Engineer and Project Scientist
+### Geoscientific Software Engineer
 
 <!--
 **jukent/jukent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 [![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/juliak-yty6ycw)
 
-I am a software engineer and atmospheric scientist at the National Center for Atmospheric Research (NCAR) passionate about improving reproducible and open science by improving Python learning resources via [Project Pythia](https://projectpythia.org/), developing workflow applications through upstream contributions to “Pangeo stack” Python packages and [GeoCAT](https://geocat.ucar.edu/), and by strengthening communication between scientists and software developers through community management of [Earth System Data Science (ESDS)](https://ncar.github.io/esds/).
+Newest USGS Contractor working on the earthquake hazards loss and risk analysis product [PAGER](https://earthquake.usgs.gov/data/pager/).
+
+Formerly a software engineer and atmospheric scientist at the National Center for Atmospheric Research (NCAR) improving reproducible and open science by improving Python learning resources via [Project Pythia](https://projectpythia.org/), developing workflow applications through upstream contributions to “Pangeo stack” Python packages and [GeoCAT](https://geocat.ucar.edu/), and by strengthening communication between scientists and software developers through community management of [Earth System Data Science (ESDS)](https://ncar.github.io/esds/).
 
 Learn more at [jnkent.com](https://jnkent.com).
 
